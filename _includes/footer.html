@@ -1,0 +1,18 @@
+<footer>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p>{{ site.data.settings.footer }}</p>
+    </div>
+    <div class="social-media">
+      <nav>
+        {% for item in site.data.settings.social %}
+          {% if item.icon == "scholar" %}
+            <a href="{{ item.link }}" target="_blank"><img src="{{ "/assets/img/scholar.png" | site.base_url }}" style="max-height: 24px; margin: auto; vertical-align: middle; display: inline-block;"></a>
+          {% else %}
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+</footer>

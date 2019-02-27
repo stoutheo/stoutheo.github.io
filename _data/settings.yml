@@ -1,0 +1,141 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+#- {name: 'About', url: ''}
+#- {name: 'Research', url: 'publications.html'}
+#- {name: 'Software', url: 'software.html'}
+#- {name: 'Projects', url: 'projects.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Theodoros Stouraitis is a robotics researcher focused on multi-contact planning and control for legged robots. He is main motivation is to enable robots (e.g. HyQ, HRP-2, Talos, Atlas) to move everywhere by combining optimal control and machine learning.'
+  rel-author: 'Theodoros Stouraitis'
+  rel-publisher: 'Theodoros Stouraitis'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics-ua: 'UA-113566398-1'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+#-------------------------------
+# About Section
+
+about: >
+  ## About Me
+
+  <img src="/assets/img/Theo.png" alt="Drawing" style="width: 30%;"/>
+  <img src="/assets/img/concept.gif" align="right" alt="Drawing" style="padding:5px;border:medium solid grey; width: 40%;"/>
+
+  <p class="lead" style="font-variant:small-caps">
+      Human-Robot Interaction - Optimal Control - Robot Learning -
+      Manipulation<br />
+  </p>
+
+  Theo envisions a future where robots co-exist with humans and naturally augment
+  humans capabilities. His ventures to develop the required theory towards
+  demonstrating Dyadic collaborative Manipulation (DcM) scenarios between a human and a robot.
+  In such a scenario, a robot agent can collaborate with a human,
+  as naturally as two humans would do. His scientific focus is on-line motion planning
+  algorithms based on numerical optimal control theory and machine learning methods that can
+  be used to learn
+  physical interaction models between the individuals of a dyad, as well as between an
+  individual and an object.
+  Further, his is also very keen on investigating both optimal control and machine learning
+  methods that allow the blending of multiple optimal elementary policies into emergent
+  complex policies. He believes that the key for the robots to attain complex behaviours is;
+  to construct complex policies from elemetary ones.
+
+  ##### Main scientific domains: #####
+
+  + Hybrid Optimal Control
+
+  + Learning physical interaction models to predict intention aware behaviours
+
+  + Decoding multi-task behaviours
+
+
+  #### Bio: ####
+
+  His first experience in robotics research was during his diploma thesis 2011 at the University of
+  Patras, under the supervision of
+  [Prof. Antony Tzes](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/anthony-tzes.html).
+  Theo explored sampling based methods, specifically Particle Filters towards adressing the SLAM problem
+  for a mobile ground robot. Being fascinated from his first experience in the field, in January 2012
+  he moved abroad and joined the Institute of Robotics and Mechatronics at the German Aerospace Center
+  (DLR). At DLR he primarily worked with [Dr. Máximo Roa](https://rmc.dlr.de/rm/de/staff/maximo.roa/)
+  and numerous other great colleagues on grasp planning, dynamic grasp simulations, physics engines
+  and software development. During this period he got familiar with many robotic areas, co-published
+  a number of papers and actively participated in two European projects, namely
+  [SMErobotics](http://www.smerobotics.org) and [EUROC](http://www.euroc-project.eu).
+  Driven by his belief that learning is the key towards developing truly intelligent robots.
+  In September 2015 he decided to enhance his education on Machine Learning and Intelligent Robotics,
+  joining the MSc in Artificial Intelligence at the University of Edinburgh. His MSc thesis was on
+  the interdisciplinary area of bio-robotics, were under the supervision of
+  [Prof. Barbara Webb](http://homepages.inf.ed.ac.uk/bwebb/). During his thesis he developed an
+  onmi-directional robot with 360-degrees vision, that immitates the behaviour of fiddler crabs
+  under predation. During his MSc he also had the luck to get to know
+  [Prof. Sethu Vijayakumar](http://homepages.inf.ed.ac.uk/svijayak/),
+  and enrol at the [Edinburgh Centre for Robotics (ECR)](https://www.edinburgh-robotics.org) in
+  September 2016 as a PhD student, under [Prof. Sethu Vijayakumar's](http://homepages.inf.ed.ac.uk/svijayak/) and
+  [Dr.Michael Gienger's](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=de) supervision.
+  His currently pursuing his PhD studies, which are funded by the Honda Research Institute Europe.
+
+
+#-------------------------------
+# Research Section
+
+#research: >
+  ## Research
+
+
+#-------------------------------
+# Work Section
+
+#projects:
+#- {name: 'Hierarchical Planning of Dynamic Movements without Scheduled Contact Sequences', folder: 'hierarchical', file: 'projects/hierarchical.html'}
+#- {name: 'Planning and Execution of Dynamic Whole-Body Locomotion for a Hydraulic Quadruped on Challenging Terrain', folder: 'decoupled', file: 'projects/decoupled.html'}
+
+
+#-------------------------------
+# Software Section
+
+#software: >
+  ## Software
+
+
+#-------------------------------
+# Contact Section
+
+contact: >
+  ## Contact
+
+  If you'd like to know more about my research or would just like to discuss past or future projects,
+  feel free to contact me [by email](mailto:stoutheo@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/theodoros-stouraitis-59083045/).
+
+
+social:
+- {icon: 'github', link: 'https://github.com/stoutheo'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/theodoros-stouraitis-59083045/'}
+- {icon: 'scholar', link: 'https://scholar.google.co.uk/citations?user=dFv2yTQAAAAJ&hl=el'}
+- {icon: 'envelope', link: 'mailto:stoutheo@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

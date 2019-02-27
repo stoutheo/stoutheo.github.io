@@ -1,0 +1,58 @@
+---
+---
+
+<!DOCTYPE html>
+<html class="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} - Dyadic collaborative Manipulation
+    {% else %}
+      {{ page.title }} - {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta name="description" content="{{ site.data.settings.seo.description }}">
+  <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+  <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+  <meta name="distribution" content="global">
+  <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.settings.seo.description }}{% endif %}">
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://i.imgur.com/RKe3sNo.gif" />
+  <meta property="og:site_name" content="{{ site.data.settings.seo.rel-author }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+  <link rel="shortcut icon" type="image/png" href="https://hayestoolingandplastics.net/wp-content/uploads/2016/01/gear-png-7.png">
+
+  <!-- Use Atom -->
+  {% feed_meta %}
+
+
+
+</head>
+<body>
+
+<div class="site-container">
+
+  {% include header.html %}
+
+  {{ content }}
+
+</div>
+
+{% include mathjs.html %}
+{% include analytics.html %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="{{ site.github.url }}/assets/js/functions.js"></script>
+</body>
+</html>
