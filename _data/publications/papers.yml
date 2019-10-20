@@ -1,0 +1,102 @@
+papers: >
+
+  #### Journals
+
+  <table>
+  <colgroup>
+    <col width="0%" />
+    <col width="80%" />
+  </colgroup>
+
+  <tbody>
+  <tr>
+    <td markdown="span"> </td>
+    <td markdown="span">Online Dyadic collaborative Manipulation through Informed Hybrid Bilevel Optimization.
+    <br> **Stouraitis T.**, Chatzinikolaidis, I., Gienger, M., and Vijayakumar, S.
+    <br> *(under-review)*</td>
+  </tr>
+  </tbody>
+  </table>
+
+
+  #### Conferences
+
+  <table>
+  <colgroup>
+    <col width="0%" />
+    <col width="100%" />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Dyadic collaborative Manipulation through Hybrid Trajectory Optimization.
+      <br> **Stouraitis T.**, Chatzinikolaidis, I., Gienger, M., and Vijayakumar, S.
+      <br> *Conference on Robot Learning (CoRL), 2018*
+      <br> <span style="color:crimson">**Best System Paper Award Finalist**</span> </td>
+    </tr>
+    <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Nonlinear Optimization using Discrete Variational Mechanics for Dynamic Maneuvers of a 3D One-Leg Hopper.
+      <br> Chatzinikolaidis, I., **Stouraitis T.**, Vijayakumar, S. and Li, Z.
+      <br> *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2018*</td>
+    </tr>
+    <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Robust shared autonomy for mobile manipulation with continuous scene monitoring.
+      <br> Merkt, W., Yang, Y., **Stouraitis T.**,  Mower, C. E., Fallon, M., and Vijayakumar, S.
+      <br> *IEEE Int. Conf. on Automation Science and Engineering (CASE), 2017*
+      <br> <span style="color:crimson">**First Prize at Robots for Resilient Infrastructure Challenge 2017, Leeds, UK**</span> </td>
+    </tr>
+    <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Predator Evasion by a Robocrab.
+      <br> **Stouraitis T.**, Gkanias, E., Hemmi, J. M., and Webb, B.
+      <br> *In Conference on Biomimetic and Biohybrid Systems (Living Machines), 2017*</td>
+    </tr>
+    <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">A Complete Automated Chain for Flexible Assembly using Recognition, Planning and Sensor-Based Execution.
+      <br> Nottensteiner, K., Bodenmueller, T., Kassecker, M., Roa, M. A., Stemmer, A., **Stouraitis, T.**, Seidel, D. and Thomas, U.
+      <br> *47st International Symposium on Robotics (ISR), 2016*</td>
+    </tr>
+  <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Flexible Assembly through Planning - Assembly Sequence Planning with the Integration of Grasp Planning.
+      <br> Thomas, U., **Stouraitis T.**,  and Roa, M.A.
+      <br> *IEEE Int. Conf. on Automation Science and Engineering (CASE), 2015*</td>
+    </tr>
+  <tr height ="10px"></tr>
+  <tr>
+    <td markdown="span"> </td>
+    <td markdown="span">Functional power grasps transferred through contact warping.
+    <br> **Stouraitis T.**, Hillenbrand, U., and Roa, M.A.
+    <br> *IEEE International Conference on Robotics and Automation (ICRA), 2015*</td>
+  </tr>
+  <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">A New Fast and Robust Collision Detection and Force Computation Algorithm Applied to the Physics Engine Bullet: Method, Integration, and Evaluation.
+      <br> Sagardia, M., **Stouraitis T.**,  and Silva, L.e.
+      <br> *Conference and Exhibition of the European Association of Virtual and Augmented Reality (EuroVR), 2014*</td>
+    </tr>
+  <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Reachability and Capability Analysis for Manipulation Tasks.
+      <br> Porges, O., **Stouraitis T.**,  Borst, C., and Roa, M.A.
+      <br> *First Iberian robotics conference, 2013*</td>
+    </tr>
+  <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> </td>
+      <td markdown="span">Intelligent Particle-Filter based Robot Localization.
+      <br> Siamantas, G., **Stouraitis T.**,  and Tzes, A.
+      <br> *9th Mediterranean Conference of Control and Automation, 2011*</td>
+    </tr>
+  </tbody>
+  </table>

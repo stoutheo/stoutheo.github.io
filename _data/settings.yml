@@ -3,7 +3,7 @@
 
 menu:
 #- {name: 'About', url: ''}
-#- {name: 'Research', url: 'publications.html'}
+- {name: 'Research', url: 'publications.html'}
 #- {name: 'Software', url: 'software.html'}
 #- {name: 'Projects', url: 'projects.html'}
 - {name: 'Contact', url: 'contact.html'}
@@ -51,24 +51,25 @@ about: >
   </p>
 
   Theo envisions a future where robots co-exist with humans and naturally augment
-  humans capabilities. His ventures to develop the required theory towards
+  humans capabilities. He ventures to develop the required theory towards
   demonstrating Dyadic collaborative Manipulation (DcM) scenarios between a human and a robot.
   In such a scenario, a robot agent can collaborate with a human,
   as naturally as two humans would do. His scientific focus is on-line motion planning
-  algorithms based on numerical optimal control theory and machine learning methods that can
-  be used to learn
-  physical interaction models between the individuals of a dyad, as well as between an
-  individual and an object.
-  Further, his is also very keen on investigating both optimal control and machine learning
+  algorithms based on numerical optimal control theory and machine learning models that can
+  be used to learn and predict physical interaction models between the individuals of a dyad, as well as
+  between an individual and an object.
+  Further, his is also very keen on investigating both optimal control and logical planning
   methods that allow the blending of multiple optimal elementary policies into emergent
   complex policies. He believes that the key for the robots to attain complex behaviours is;
   to construct complex policies from elemetary ones.
 
   ##### Main scientific domains: #####
 
-  + Hybrid Optimal Control
+  + Optimal Control
 
-  + Learning physical interaction models to predict intention aware behaviours
+  + Hybrid Systems
+
+  + Learning to predict human intentions through physical interactions
 
   + Decoding multi-task behaviours
 
@@ -103,8 +104,11 @@ about: >
 #-------------------------------
 # Research Section
 
-#research: >
+research: >
   ## Research
+
+  Please find below the full list of papers, that I have been involved with.
+# You can find a short description and extra material of each paper by clicking on the title.
 
 
 #-------------------------------
