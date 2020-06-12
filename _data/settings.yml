@@ -14,7 +14,8 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Theodoros Stouraitis is a robotics researcher focused on multi-contact planning and control for legged robots. He is main motivation is to enable robots (e.g. HyQ, HRP-2, Talos, Atlas) to move everywhere by combining optimal control and machine learning.'
+  description: 'Theodoros Stouraitis is a robotics researcher that envisions a future where robots co-exist with humans and naturally augment
+  humans capabilities.'
   rel-author: 'Theodoros Stouraitis'
   rel-publisher: 'Theodoros Stouraitis'
 
