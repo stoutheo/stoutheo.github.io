@@ -66,13 +66,15 @@ about: >
 
   ##### Main scientific domains: #####
 
-  + Optimal Control
+  + Numerical Optimal Control
 
   + Hybrid Systems
 
-  + Learning to predict human intentions through physical interactions
+  + Impact-aware non-prehensile manipulation
 
-  + Decoding multi-task behaviours
+  + Human-Robot collaborative manipulation
+
+  + Learning to predict human behaviour via physical interaction
 
 
   #### Bio: ####
@@ -97,9 +99,11 @@ about: >
   under predation. During his MSc he also had the luck to get to know
   [Prof. Sethu Vijayakumar](http://homepages.inf.ed.ac.uk/svijayak/),
   and enrol at the [Edinburgh Centre for Robotics (ECR)](https://www.edinburgh-robotics.org) in
-  September 2016 as a PhD student, under [Prof. Sethu Vijayakumar's](http://homepages.inf.ed.ac.uk/svijayak/) and
+  September 2016 as a PhD student, which were funded by the Honda Research Institute Europe,
+  under [Prof. Sethu Vijayakumar's](http://homepages.inf.ed.ac.uk/svijayak/) and
   [Dr.Michael Gienger's](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=de) supervision.
-  His currently pursuing his PhD studies, which are funded by the Honda Research Institute Europe.
+  He completed his PhD studies in 2021 and he is currently a Research Associate at the
+  [SLMC group](https://web.inf.ed.ac.uk/slmc) at the University of Edinburgh.
 
 
 #-------------------------------
