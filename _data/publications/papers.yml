@@ -11,11 +11,25 @@ papers: >
 
   <tbody>
   <tr>
+    <td markdown="span"> ![image](/assets/img/dressing.gif){: style="float: left; width: 100%; margin: 10px -20px"}
+      </td>
+      <td markdown="span">
+    <br> Set-based State Estimation with Probabilistic Consistency Guarantee under Epistemic Uncertainty.
+    <br> Li, S.<sup> * </sup>, **Stouraitis, T.**<sup> * </sup>, Gienger, M., Vijayakumar, S. and Shah, A. J.
+    <br> IEEE Robotics and Automation Letters (RA-L), 2022,
+    <br> *To appear*,
+    [pre-print](https://arxiv.org/pdf/2110.09584.pdf)
+    <br> --- </td>
+  </tr>
+  </tbody>
+  <tr height ="10px"></tr>
+  <tbody>
+  <tr>
     <td markdown="span"> ![image](/assets/img/D3AC.gif){: style="float: left; width: 100%; margin: 10px -20px"}
    </td>
     <td markdown="span">
     <br> Decentralized ability-aware adaptive control for multi-robot collaborative manipulation.
-    <br> Lei Yan, **Stouraitis T.**, and Vijayakumar, S.
+    <br> Yan, L., **Stouraitis, T.**, and Vijayakumar, S.
     <br> IEEE Robotics and Automation Letters (RA-L), 2021,
     [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9357952/),
     [pdf](https://ieeexplore.ieee.org/iel7/7083369/9285111/09357952.pdf),
@@ -30,7 +44,7 @@ papers: >
         </td>
     <td markdown="span">
     <br> Online Hybrid Motion Planning for Dyadic Collaborative Manipulation via Bilevel Optimization.
-    <br> **Stouraitis T.**, Chatzinikolaidis, I., Gienger, M., and Vijayakumar, S.
+    <br> **Stouraitis, T.**, Chatzinikolaidis, I., Gienger, M., and Vijayakumar, S.
     <br> IEEE Transactions on Robotics (T-RO), 2020 <span style="color:crimson">**(invited)**</span>,
     [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9166536),
     [pdf](https://ieeexplore.ieee.org/iel7/8860/4359257/09166536.pdf),
@@ -56,9 +70,9 @@ papers: >
           </td>
     <td markdown="span">
     <br> Non-prehensile Planar Manipulation via Trajectory Optimization with Complementarity Constraints.
-    <br> Moura J., **Stouraitis T.**, and Vijayakumar, S.
+    <br> Moura J., **Stouraitis, T.**, and Vijayakumar, S.
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2022*,
-    <br> *Under review*,
+    <br> *To appear*,
     [pre-print](https://arxiv.org/pdf/2109.13145.pdf)
     <br> --- </td>
   </tr>
@@ -68,7 +82,7 @@ papers: >
             </td>
       <td markdown="span">
       <br> Multi-modal Trajectory Optimization for Impact-aware Manipulation.
-      <br> **Stouraitis T.**<sup> * </sup>, Yan L.<sup> * </sup>, Moura J., Gienger, M., and Vijayakumar, S.
+      <br> **Stouraitis, T.**<sup> * </sup>, Yan, L.<sup> * </sup>, Moura J., Gienger, M., and Vijayakumar, S.
       <br> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020*,
       [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9341246),
       [pdf](https://arxiv.org/pdf/2006.13374.pdf),
@@ -81,7 +95,7 @@ papers: >
         </td>
       <td markdown="span">
       <br> Dyadic collaborative Manipulation through Hybrid Trajectory Optimization.
-      <br> **Stouraitis T.**, Chatzinikolaidis, I., Gienger, M., and Vijayakumar, S.
+      <br> **Stouraitis, T.**, Chatzinikolaidis, I., Gienger, M., and Vijayakumar, S.
       <br> *Conference on Robot Learning (CoRL), 2018*,
       [PMLR-link](http://proceedings.mlr.press/v87/stouraitis18a.html),
       [pdf](https://pdfs.semanticscholar.org/1426/87714cb17445f97c6e65b0d7183efcd2bad5.pdf),
@@ -95,7 +109,7 @@ papers: >
      </td>
       <td markdown="span">
       <br> Nonlinear Optimization using Discrete Variational Mechanics for Dynamic Maneuvers of a 3D One-Leg Hopper.
-      <br> Chatzinikolaidis, I., **Stouraitis T.**, Vijayakumar, S. and Li, Z.
+      <br> Chatzinikolaidis, I., **Stouraitis, T.**, Vijayakumar, S. and Li, Z.
       <br> *IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2018*,
       [link](https://ieeexplore.ieee.org/document/8624981)
       <br> --- </td>
@@ -107,7 +121,7 @@ papers: >
      </td>
      <td markdown="span">
       <br> Robust shared autonomy for mobile manipulation with continuous scene monitoring.
-      <br> Merkt, W., Yang, Y., **Stouraitis T.**,  Mower, C. E., Fallon, M., and Vijayakumar, S.
+      <br> Merkt, W., Yang, Y., **Stouraitis, T.**,  Mower, C. E., Fallon, M., and Vijayakumar, S.
       <br> *IEEE Int. Conf. on Automation Science and Engineering (CASE), 2017*,
       [pdf](http://www.robots.ox.ac.uk/~mobile/drs/Papers/2017CASE_merkt.pdf),
       [video](https://www.youtube.com/watch?v=5jFU7oCP4vk),
@@ -121,7 +135,7 @@ papers: >
       </td>
       <td markdown="span">
       <br> Predator Evasion by a Robocrab.
-      <br> **Stouraitis T.**, Gkanias, E., Hemmi, J. M., and Webb, B.
+      <br> **Stouraitis, T.**, Gkanias, E., Hemmi, J. M., and Webb, B.
       <br> *In Conference on Biomimetic and Biohybrid Systems (Living Machines), 2017*,
       [link](https://link.springer.com/chapter/10.1007/978-3-319-63537-8_36)
       <br> --- </td>
@@ -144,7 +158,7 @@ papers: >
       </td>
       <td markdown="span">
       <br> Flexible Assembly through Planning - Assembly Sequence Planning with the Integration of Grasp Planning.
-      <br> Thomas, U., **Stouraitis T.**,  and Roa, M.A.
+      <br> Thomas, U., **Stouraitis, T.**,  and Roa, M.A.
       <br> *IEEE Int. Conf. on Automation Science and Engineering (CASE), 2015*,
       [link](https://ieeexplore.ieee.org/document/7294142)
       <br> --- </td>
@@ -154,7 +168,7 @@ papers: >
      <td markdown="span"> ![image](/assets/img/grasping.gif){: style="float: left; width: 80%; margin: 10px -0px"}
       </td>
     <td markdown="span">Functional power grasps transferred through contact warping.
-    <br> **Stouraitis T.**, Hillenbrand, U., and Roa, M.A.
+    <br> **Stouraitis, T.**, Hillenbrand, U., and Roa, M.A.
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2015*,
     [link](https://ieeexplore.ieee.org/document/7139884)
     <br> --- </td>
@@ -165,7 +179,7 @@ papers: >
        </td>
       <td markdown="span">
       <br> A New Fast and Robust Collision Detection and Force Computation Algorithm Applied to the Physics Engine Bullet: Method, Integration, and Evaluation.
-      <br> Sagardia, M., **Stouraitis T.**,  and Silva, L.e.
+      <br> Sagardia, M., **Stouraitis, T.**,  and Silva, L.e.
       <br> *Conference and Exhibition of the European Association of Virtual and Augmented Reality (EuroVR), 2014*,
       [pdf](https://diglib.eg.org/bitstream/handle/10.2312/eurovr.20141341.065-076/065-076.pdf?sequence=1&isAllowed=y),
       [video](https://diglib.eg.org/bitstream/handle/10.2312/eurovr.20141341.065-076/vr_vps_bullet_bunnies.m4v?sequence=2&isAllowed=y)
@@ -177,7 +191,7 @@ papers: >
        </td>
       <td markdown="span">
       <br> Reachability and Capability Analysis for Manipulation Tasks.
-      <br> Porges, O., **Stouraitis T.**,  Borst, C., and Roa, M.A.
+      <br> Porges, O., **Stouraitis, T.**,  Borst, C., and Roa, M.A.
       <br> *First Iberian robotics conference, 2013*,
       [link](https://link.springer.com/chapter/10.1007/978-3-319-03653-3_50)
       <br> --- </td>
@@ -188,7 +202,7 @@ papers: >
          </td>
       <td markdown="span">
       Intelligent Particle-Filter based Robot Localization.
-      <br> Siamantas, G., **Stouraitis T.**,  and Tzes, A.
+      <br> Siamantas, G., **Stouraitis, T.**,  and Tzes, A.
       <br> *9th Mediterranean Conference of Control and Automation, 2011*,
       [link](https://ieeexplore.ieee.org/document/5983221)
       </td>

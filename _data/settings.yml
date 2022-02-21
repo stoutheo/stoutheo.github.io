@@ -5,7 +5,7 @@ menu:
 #- {name: 'About', url: ''}
 - {name: 'Research', url: 'publications.html'}
 #- {name: 'Software', url: 'software.html'}
-#- {name: 'Projects', url: 'projects.html'}
+- {name: 'Long Bio', url: 'long_bio.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 #-------------------------------
@@ -47,63 +47,56 @@ about: >
   <img src="/assets/img/concept.gif" align="right" alt="Drawing" style="padding:5px;border:medium solid grey; width: 40%;"/>
 
   <p class="lead" style="font-variant:small-caps">
-      Human-Robot Interaction - Optimal Control - Robot Learning -
-      Manipulation<br />
+      Human-Robot Collaboration - Manipulation - Optimal Control
+      <br />
   </p>
 
-  Theo envisions a future where robots co-exist with humans and naturally augment
-  humans capabilities. He ventures to develop the required theory towards
+  I envision a future where robots co-exist with humans and naturally augment
+  humans capabilities. Having this in mind, I venture to develop the required theory towards
   demonstrating Dyadic collaborative Manipulation (DcM) scenarios between a human and a robot.
   In such a scenario, a robot agent can collaborate with a human,
-  as naturally as two humans would do. His scientific focus is on-line motion planning
+  as naturally as two humans would do. My scientific focus is on-line motion planning
   algorithms based on numerical optimal control theory and machine learning models that can
-  be used to learn and predict physical interaction models between the individuals of a dyad, as well as
-  between an individual and an object.
-  Further, his is also very keen on investigating both optimal control and logical planning
-  methods that allow the blending of multiple optimal elementary policies into emergent
-  complex policies. He believes that the key for the robots to attain complex behaviours is;
-  to construct complex policies from elemetary ones.
+  be used to estimate and predict physical interactions with humans.
+  Further, I am very keen on investigating representations that can enable robustness in
+  optimal control methods, as well as the structural composition of optimal control methods with search-based planning
+  methods.
 
-  ##### Main scientific domains: #####
+  ##### Areas of scientific interest: #####
 
   + Numerical Optimal Control
 
   + Hybrid Systems
 
-  + Impact-aware non-prehensile manipulation
+  + Set-based estimation and planning with learned models
+
+
+  ##### Appliaction domains: #####
 
   + Human-Robot collaborative manipulation
 
-  + Learning to predict human behaviour via physical interaction
+  + Impact-aware non-prehensile manipulation
+
+  + Robot->Human assistance via physical interaction
 
 
-  #### Bio: ####
+  #### Short Bio: ####
 
-  His first experience in robotics research was during his diploma thesis 2011 at the University of
-  Patras, under the supervision of
-  [Prof. Antony Tzes](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/anthony-tzes.html).
-  Theo explored sampling based methods, specifically Particle Filters towards adressing the SLAM problem
-  for a mobile ground robot. Being fascinated from his first experience in the field, in January 2012
-  he moved abroad and joined the Institute of Robotics and Mechatronics at the German Aerospace Center
-  (DLR). At DLR he primarily worked with [Dr. Máximo Roa](https://rmc.dlr.de/rm/de/staff/maximo.roa/)
-  and numerous other great colleagues on grasp planning, dynamic grasp simulations, physics engines
-  and software development. During this period he got familiar with many robotic areas, co-published
-  a number of papers and actively participated in two European projects, namely
-  [SMErobotics](http://www.smerobotics.org) and [EUROC](http://www.euroc-project.eu).
-  Driven by his belief that learning is the key towards developing truly intelligent robots.
-  In September 2015 he decided to enhance his education on Machine Learning and Intelligent Robotics,
-  joining the MSc in Artificial Intelligence at the University of Edinburgh. His MSc thesis was on
-  the interdisciplinary area of bio-robotics, were under the supervision of
-  [Prof. Barbara Webb](http://homepages.inf.ed.ac.uk/bwebb/). During his thesis he developed an
-  onmi-directional robot with 360-degrees vision, that immitates the behaviour of fiddler crabs
-  under predation. During his MSc he also had the luck to get to know
-  [Prof. Sethu Vijayakumar](http://homepages.inf.ed.ac.uk/svijayak/),
-  and enrol at the [Edinburgh Centre for Robotics (ECR)](https://www.edinburgh-robotics.org) in
-  September 2016 as a PhD student, which were funded by the Honda Research Institute Europe,
-  under [Prof. Sethu Vijayakumar's](http://homepages.inf.ed.ac.uk/svijayak/) and
-  [Dr.Michael Gienger's](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=de) supervision.
-  He completed his PhD studies in 2021 and he is currently a Research Associate at the
-  [SLMC group](https://web.inf.ed.ac.uk/slmc) at the University of Edinburgh.
+  I am currently a Visiting Scientist at the [IRG](https://interactive.mit.edu) at Massachusetts Institute of Technology (MIT), USA,
+  where I am adviced by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie).
+  I obtained my PhD in Robotics from the University of Edinburgh, UK,
+  under the supervision of [Prof. Sethu Vijayakumar](http://homepages.inf.ed.ac.uk/svijayak/) at the
+  [SLMC group](https://web.inf.ed.ac.uk/slmc) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=de) at
+  the [Honda Research Institute Europe](https://www.honda-ri.de).
+  My PhD studies were supported in full by the Honda Research Institute Europe Fellowship as
+  part of the [HRI-EU European Graduate Network](https://www.honda-ri.de/partnership-in-science/).
+  Prior to my PhD studies, I completed a MSc in Artificial Intelligence
+  at the University of Edinburgh, I worked as Research Assistant for
+  three years at the [Robotics and Mechatronics Institute of DLR](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017)
+  (German Aerospace Center) and I obtained a Diploma (BSc + MSc)
+  in Computer Engineering and Informatics from the University
+  of Patras, Greece.
+
 
 
 #-------------------------------
@@ -129,6 +122,48 @@ research: >
 
 #software: >
   ## Software
+
+
+#-------------------------------
+# Long Bio Section
+
+long_bio: >
+
+  ## Long Bio
+
+  My first experience in robotics research was during his diploma thesis 2011 at the University of
+  Patras, under the supervision of
+  [Prof. Antony Tzes](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/anthony-tzes.html).
+  I explored probabilistic filtering based methods, specifically Particle Filters towards adressing the SLAM problem
+  for a mobile ground robot. Being fascinated from my first experience in the field, in January 2012
+  I moved abroad and joined the Institute of Robotics and Mechatronics at the German Aerospace Center
+  (DLR). At DLR, I primarily worked with [Dr. Máximo Roa](https://rmc.dlr.de/rm/de/staff/maximo.roa/)
+  and numerous other great colleagues on grasp planning, grasp simulations, physics engines
+  and software development. During this period I got familiar with many robotic areas, co-published
+  a number of papers and actively participated in two European projects, namely
+  [SMErobotics](http://www.smerobotics.org) and [EUROC](http://www.euroc-project.eu).
+  Driven by my belief that learning is the key towards developing truly intelligent robots.
+  In September 2015 I decided to enhance my education on Machine Learning and Intelligent Robotics,
+  joining the MSc in Artificial Intelligence at the University of Edinburgh. My MSc thesis was on
+  the interdisciplinary area of bio-robotics, under the supervision of
+  [Prof. Barbara Webb](http://homepages.inf.ed.ac.uk/bwebb/). During my thesis I developed an
+  onmi-directional robot with 360-degrees vision, that immitates the behaviour of fiddler crabs
+  under predation. During my MSc I also had the luck to get to know
+  [Prof. Sethu Vijayakumar](http://homepages.inf.ed.ac.uk/svijayak/),
+  which led to my enrollment at the [Edinburgh Centre for Robotics (ECR)](https://www.edinburgh-robotics.org) in
+  September 2016 as a PhD student. My PhD studies were supported in full by the Honda Research Institute Europe Fellowship as
+  part of the [HRI-EU European Graduate Network](https://www.honda-ri.de/partnership-in-science/) and
+  were conducted under [Prof. Sethu Vijayakumar's](http://homepages.inf.ed.ac.uk/svijayak/) and
+  [Dr. Michael Gienger's](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=de) supervision.
+  I completed my PhD studies in 2021 on the topic of Human-Robot Collaboration and
+  continued working as Research Associate at the
+  [SLMC group](https://web.inf.ed.ac.uk/slmc) at the University of Edinburgh.
+  I am currently a Visiting Scientist at the [IRG](https://interactive.mit.edu) at Massachusetts Institute of Technology (MIT), USA,
+  where I am adviced by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie) and I investigate topics related to
+  estimation and planning for Human-Robot assistive tasks. My visit at MIT is supported in part by a Postdoctoral Grant provided by
+  the [Scottish Informatics and Computer Science Alliance (SICSA)](https://www.sicsa.ac.uk).
+
+
 
 
 #-------------------------------
