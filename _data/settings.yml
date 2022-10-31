@@ -43,52 +43,45 @@ disqus:
 about: >
   ## About Me
 
-  <img src="/assets/img/Theo.png" alt="Drawing" style="width: 30%;"/>
+  <img src="/assets/img/Theo_new.png" alt="Drawing" style="width: 25%;"/>
   <img src="/assets/img/concept.gif" align="right" alt="Drawing" style="padding:5px;border:medium solid grey; width: 40%;"/>
 
   <p class="lead" style="font-variant:small-caps">
-      Human-Robot Collaboration - Manipulation - Optimal Control
+      Human-Robot Collaboration and Assistance - Manipulation - Uncertainty - Optimal Control
       <br />
   </p>
 
   I envision a future where robots co-exist with humans and naturally augment
   humans capabilities. Having this in mind, I venture to develop the required theory towards
-  demonstrating Dyadic collaborative Manipulation (DcM) scenarios between a human and a robot.
-  In such a scenario, a robot agent can collaborate with a human,
-  as naturally as two humans would do. My scientific focus is on-line motion planning
-  algorithms based on numerical optimal control theory and machine learning models that can
-  be used to estimate and predict physical interactions with humans.
-  Further, I am very keen on investigating representations that can enable robustness in
-  optimal control methods, as well as the structural composition of optimal control methods with search-based planning
-  methods.
+  demonstrating scenarios where a robot assists a human manipulate and co-manipulate objects.
 
-  ##### Areas of scientific interest: #####
 
-  + Numerical Optimal Control
+  #### Areas of scientific interest: ####
+
+  + Numerical Optimal Control---Trajectory Optimization
 
   + Hybrid Systems
 
-  + Set-based estimation and planning with learned models
+  + Uncertainty-aware (robust) estimation, prediction, planning and control
 
 
-  ##### Appliaction domains: #####
+  #### Appliaction domains: ####
 
-  + Human-Robot collaborative manipulation
+  + Manipulation---non-prehensile, sequential, collaborative and impact-aware
 
-  + Impact-aware non-prehensile manipulation
-
-  + Robot->Human assistance via physical interaction
+  + Human-Robot physical collaboration and assistance
 
 
   #### Short Bio: ####
 
-  I am currently a Visiting Scientist at the [IRG](https://interactive.mit.edu) at Massachusetts Institute of Technology (MIT), USA,
-  where I am adviced by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie).
+  I am Senior Scientist at the [Honda Research Institute Europe](https://www.honda-ri.de).
+  Prior to that, I was a Visiting Scientist at the [IRG](https://interactive.mit.edu) at Massachusetts Institute of Technology (MIT), USA,
+  where I was adviced by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie).
   I obtained my PhD in Robotics from the University of Edinburgh, UK,
   under the supervision of [Prof. Sethu Vijayakumar](http://homepages.inf.ed.ac.uk/svijayak/) at the
   [SLMC group](https://web.inf.ed.ac.uk/slmc) and [Dr. Michael Gienger](https://scholar.google.de/citations?user=oU2jyxMAAAAJ&hl=de) at
   the [Honda Research Institute Europe](https://www.honda-ri.de).
-  My PhD studies were supported in full by the Honda Research Institute Europe Fellowship as
+  My PhD studies were supported in full by the Honda Research Institute Europe fellowship as
   part of the [HRI-EU European Graduate Network](https://www.honda-ri.de/partnership-in-science/).
   Prior to my PhD studies, I completed a MSc in Artificial Intelligence
   at the University of Edinburgh, I worked as Research Assistant for
@@ -115,7 +108,15 @@ research: >
 #projects:
 #- {name: 'Hierarchical Planning of Dynamic Movements without Scheduled Contact Sequences', folder: 'hierarchical', file: 'projects/hierarchical.html'}
 #- {name: 'Planning and Execution of Dynamic Whole-Body Locomotion for a Hydraulic Quadruped on Challenging Terrain', folder: 'decoupled', file: 'projects/decoupled.html'}
-
+# In such a scenario, a robot agent can collaborate with a human,
+# as naturally as two humans would do.
+#  demonstrating Dyadic collaborative Manipulation (DcM) scenarios between a human and a robot,
+# My scientific focus is on-line motion planning
+# algorithms based on numerical optimal control theory and machine learning models that can
+# be used to estimate and predict physical interactions with humans.
+# Further, I am very keen on investigating representations that can enable robustness in
+# optimal control methods, as well as the structural composition of optimal control methods with search-based planning
+# methods.
 
 #-------------------------------
 # Software Section
@@ -158,11 +159,11 @@ long_bio: >
   I completed my PhD studies in 2021 on the topic of Human-Robot Collaboration and
   continued working as Research Associate at the
   [SLMC group](https://web.inf.ed.ac.uk/slmc) at the University of Edinburgh.
-  I am currently a Visiting Scientist at the [IRG](https://interactive.mit.edu) at Massachusetts Institute of Technology (MIT), USA,
-  where I am adviced by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie) and I investigate topics related to
-  estimation and planning for Human-Robot assistive tasks. My visit at MIT is supported in part by a Postdoctoral Grant provided by
+  In 2022, I was a Visiting Scientist at the [IRG](https://interactive.mit.edu) at Massachusetts Institute of Technology (MIT), USA, for 3 months,
+  where I was adviced by [Prof. Julie Shah](https://interactive.mit.edu/about/people/julie) and I investigate topics related to
+  estimation and planning for Human-Robot assistive tasks. My visit at MIT was supported in part by a Postdoctoral Grant provided by
   the [Scottish Informatics and Computer Science Alliance (SICSA)](https://www.sicsa.ac.uk).
-
+  I am now a Senior Scientist at the [Honda Research Institute Europe](https://www.honda-ri.de) working towards developing robots that assist humans in daily tasks.
 
 
 

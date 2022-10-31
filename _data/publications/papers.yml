@@ -17,8 +17,11 @@ papers: >
     <br> Set-based State Estimation with Probabilistic Consistency Guarantee under Epistemic Uncertainty.
     <br> Li, S.<sup> * </sup>, **Stouraitis, T.**<sup> * </sup>, Gienger, M., Vijayakumar, S. and Shah, A. J.
     <br> IEEE Robotics and Automation Letters (RA-L), 2022,
-    <br> *To appear*,
-    [pre-print](https://arxiv.org/pdf/2110.09584.pdf)
+    [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9723510),
+    [pdf](https://arxiv.org/pdf/2110.09584),
+    [video](https://www.youtube.com/watch?v=CvIPJlALaFU&ab_channel=InteractiveRobotics),
+    [MIT news](https://news.mit.edu/2022/robots-dress-humans-without-full-picture-0405),
+    [MIT Instagram](https://www.instagram.com/p/CcF3LTWOgSw/)
     <br> --- </td>
   </tr>
   </tbody>
@@ -66,14 +69,27 @@ papers: >
   </colgroup>
   <tbody>
   <tr>
+    <td markdown="span"> ![image](/assets/img/ros-pybullet-envs.png){: style="float: left; width: 100%; margin: 10px -20px"}
+          </td>
+    <td markdown="span">
+    <br>  ROS PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction.
+    <br>  Mower, C., **Stouraitis, T.**, Moura, J., Rauch, C., Yan, Lei., Behabadi, N., Gienger, M., Vercauteren, T., Bergeles, C., and Vijayakumar, S.,
+    <br> *Conference on Robot Learning (CoRL), 2022*,
+    <br> To appear,
+    [pdf](https://arxiv.org/pdf/2210.06887)
+    <br> --- </td>
+  </tr>
+  <tr height ="10px"></tr>
+  <tr>
     <td markdown="span"> ![image](/assets/img/pushing.gif){: style="float: left; width: 100%; margin: 10px -20px"}
           </td>
     <td markdown="span">
     <br> Non-prehensile Planar Manipulation via Trajectory Optimization with Complementarity Constraints.
-    <br> Moura J., **Stouraitis, T.**, and Vijayakumar, S.
+    <br> Moura, J., **Stouraitis, T.**, and Vijayakumar, S.
     <br> *IEEE International Conference on Robotics and Automation (ICRA), 2022*,
-    <br> *To appear*,
-    [pre-print](https://arxiv.org/pdf/2109.13145.pdf)
+    [IEEE-link](https://ieeexplore.ieee.org/document/9811942),
+    [pdf](https://arxiv.org/pdf/2109.13145.pdf),
+    [video](https://www.youtube.com/watch?v=EkU6YHMhjto&list=PLW-NGNcgsQQjsGbntGBanhhvTeDrYI4LD&index=64)
     <br> --- </td>
   </tr>
   <tr height ="10px"></tr>
@@ -86,7 +102,20 @@ papers: >
       <br> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020*,
       [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9341246),
       [pdf](https://arxiv.org/pdf/2006.13374.pdf),
-      [video](https://public.3.basecamp.com/p/gRmU67nnWBbG8ieDtucdgGkG)
+      [video](https://ieeexplore.ieee.org/abstract/document/9341246/media#media)
+      <br> --- </td>
+    </tr>
+    <tr height ="10px"></tr>
+    <tr>
+      <td markdown="span"> ![image](/assets/img/impact-aware.gif){: style="float: left; width: 100%; margin: 10px -20px"}
+            </td>
+      <td markdown="span">
+      <br> Multi-modal Trajectory Optimization for Impact-aware Manipulation.
+      <br> **Stouraitis, T.**<sup> * </sup>, Yan, L.<sup> * </sup>, Moura J., Gienger, M., and Vijayakumar, S.
+      <br> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020*,
+      [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9341246),
+      [pdf](https://arxiv.org/pdf/2006.13374.pdf),
+      [video](https://ieeexplore.ieee.org/abstract/document/9341246/media#media)
       <br> --- </td>
     </tr>
     <tr height ="10px"></tr>
