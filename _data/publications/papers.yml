@@ -107,19 +107,6 @@ papers: >
     </tr>
     <tr height ="10px"></tr>
     <tr>
-      <td markdown="span"> ![image](/assets/img/impact-aware.gif){: style="float: left; width: 100%; margin: 10px -20px"}
-            </td>
-      <td markdown="span">
-      <br> Multi-modal Trajectory Optimization for Impact-aware Manipulation.
-      <br> **Stouraitis, T.**<sup> * </sup>, Yan, L.<sup> * </sup>, Moura J., Gienger, M., and Vijayakumar, S.
-      <br> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020*,
-      [IEEE-link](https://ieeexplore.ieee.org/abstract/document/9341246),
-      [pdf](https://arxiv.org/pdf/2006.13374.pdf),
-      [video](https://ieeexplore.ieee.org/abstract/document/9341246/media#media)
-      <br> --- </td>
-    </tr>
-    <tr height ="10px"></tr>
-    <tr>
           <td markdown="span"> ![image](/assets/img/CoRL18.gif){: style="float: left; width: 90%; margin: 10px -10px"}
         </td>
       <td markdown="span">
