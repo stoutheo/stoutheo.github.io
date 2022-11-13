@@ -47,13 +47,17 @@ about: >
   <img src="/assets/img/concept.gif" align="right" alt="Drawing" style="padding:5px;border:medium solid grey; width: 40%;"/>
 
   <p class="lead" style="font-variant:small-caps">
-      Human-Robot Collaboration and Assistance - Manipulation - Uncertainty - Optimal Control
+      Human-Robot Collaboration and Assistance - Manipulation - Optimal Control - Uncertainty
       <br />
   </p>
 
-  I envision a future where robots co-exist with humans and naturally augment
-  humans capabilities. Having this in mind, I venture to develop the required theory towards
-  demonstrating scenarios where a robot assists a human manipulate and co-manipulate objects.
+  I envision a future where autonomous agents (robots) co-exist with humans
+  and naturally augment humans' capabilities. I aim to develop technological
+  advancements that assist humans operate and live in their **physical** environment.
+
+  To that end, I primary develop optimal control algorithms for motion generation and prediction;
+  with recent interest in data-driven and uncertain-aware models.
+
 
 
   #### Areas of scientific interest: ####
